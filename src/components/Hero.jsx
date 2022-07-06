@@ -77,7 +77,7 @@ width:100vw;
 z-index:-100;
 top:0;
 right:0;
-  @media (${device.mobileL}){
+  @media ${device.mobileL}{
     object-fit:cover;
   }
 
