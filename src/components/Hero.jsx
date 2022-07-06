@@ -101,7 +101,7 @@ const HistoryContainer = styledComponent.div`
 display:flex;
 align-items:center;
 flex-direction:column;
-background:lightblue;`;
+background: whitesmoke;`;
 
 const HistoryHeading = styledComponent.h1`
 font-family:var(--secondary-font);
